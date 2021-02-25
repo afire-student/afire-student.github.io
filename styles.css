@@ -1,0 +1,41 @@
+body {
+  background-color: darkolivegreen;
+}
+
+h1 {
+  color: palegoldenrod;
+  font-family: 'Courier New', monospace;
+  font-size: 200%;
+  text-align: center;
+  text-decoration: underline;
+}
+
+p {
+  color: ghostwhite;
+  font-family: Tahoma, sans-serif;
+  font-size: 100%;
+}
+
+h2 {
+	color: wheat;
+	font-family: 'Trebuchet MS', sans-serif;
+	font-size: 150%;
+}
+img {
+  border: 5px solid black;
+}
+
+<style>
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
